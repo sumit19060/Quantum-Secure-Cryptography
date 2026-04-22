@@ -176,4 +176,5 @@ MIT — see [LICENSE](LICENSE).
 
 Note: `gpu/GPUMath.h` and `gpu/GPUHash.h` are from [CudaBrainSecp](https://github.com/nicecash/CudaBrainSecp) (Jean Luc PONS / VanitySearch) and are licensed under GPL-3.0. All other files in this repository are MIT licensed.
 #   Q u a n t u m - S e c u r e - C r y p t o g r a p h y  
+ #   Q u a n t u m - S e c u r e - C r y p t o g r a p h y  
  
