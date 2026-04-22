@@ -1,0 +1,15 @@
+{
+  "budget": 50,
+  "config": "A",
+  "dest_address": "0123456789abcdef0123456789abcdef01234567",
+  "funding_txid": "0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef",
+  "funding_value": 10000,
+  "funding_vout": 0,
+  "gpus": 8,
+  "locktime": 1,
+  "round1_indices": "1,9",
+  "round2_indices": "2,6",
+  "seed": null,
+  "sequence": 0,
+  "vast_api_key": ""
+}

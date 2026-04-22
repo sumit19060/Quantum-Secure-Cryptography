@@ -1,0 +1,46 @@
+{
+  "locktime": 34,
+  "round1_indices": [
+    6,
+    8
+  ],
+  "round2_indices": [
+    1,
+    9
+  ],
+  "pin_key_nonce": "0307137a827d7d1a582ab3aa050801e0f78e8af7cf750fa96be3c109d7d85c7734",
+  "pin_key_puzzle": "022222222222222222222222222222222222222222222222222222222222222222",
+  "pin_sig_puzzle": "31619490c2c7bcb59c3f272fa5172dda6e98b446",
+  "rounds": [
+    {
+      "key_nonce": "02558765df83aff2ef9c5b6a55ca9304598371360afaae0266a7232772d3d09966",
+      "key_puzzle": "024444444444444444444444444444444444444444444444444444444444444444",
+      "sig_puzzle": "363f8ec14f72273e238908c46cd1f1a54ccee220",
+      "dummy_pubkeys": [
+        "0201a0a54dbf7bdb23173ac3ffb511d5c960127187ef56ed2f9013762a06756d94"
+      ],
+      "preimages": [
+        "f648818ba4a6656be0cb6e382a5dff72ac1dda96",
+        "bd2b4acec46edf287a43b9b21175306c76a81a57"
+      ],
+      "subset": [
+        6,
+        8
+      ]
+    },
+    {
+      "key_nonce": "0230ccadc7e745aa7a1d464057a0657aa5f8d4b0d7128e2f9d9989ee87d7e9e9df",
+      "key_puzzle": "02cf88218b5959687bf8f248430fce172a029915d3ed62c62f7b42870559bc8a10",
+      "sig_puzzle": "31350359dc3afb7917fb00f43f3c6234187f6f5f",
+      "dummy_pubkeys": [],
+      "preimages": [
+        "8e12e65b1364f5d8717b0d5803ca8d9aa6a3b743",
+        "93b212742f37bca2de4288d541a4655de9b2a329"
+      ],
+      "subset": [
+        1,
+        9
+      ]
+    }
+  ]
+}
